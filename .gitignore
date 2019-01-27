@@ -1,0 +1,30 @@
+#
+# s3fs-check-aspell.sh
+#
+# Copyright(C) 2019 Takeshi Nakatani <ggtakec@gmail.com>
+#
+# This script is a tool to check spelling of s3fs-fuse source code.
+# The tool acts as a wrapper for GNU Aspell(http://aspell.net/).
+# This uses a personal dictionary dedicated to s3fs.
+#
+# For the full copyright and license information, please view
+# the license file that was distributed with this source code.
+#
+# AUTHOR:   Takeshi Nakatani
+# CREATE:   Wed 7 Dec 2016
+# REVISION:
+# 
+
+#
+# backup file
+#
+*.bak
+
+#
+# Local variables:
+# tab-width: 4
+# c-basic-offset: 4
+# End:
+# vim600: noet sw=4 ts=4 fdm=marker
+# vim<600: noet sw=4 ts=4
+#
