@@ -1,4 +1,4 @@
-personal_ws-1.1 en 919
+personal_ws-1.1 en 922
 abb
 abcd
 ABCDEF
@@ -478,6 +478,7 @@ IFIFO
 IFLNK
 IFREG
 IFSOCK
+incomp
 init
 Init
 INIT
@@ -559,6 +560,7 @@ missingInclude
 missingIncludeSystem
 mkdir
 mktemp
+MMAP
 modprobe
 modversion
 mountpath
@@ -816,6 +818,7 @@ testfile
 testmtime
 testrun
 tgz
+tids
 Tilda
 TIMEDOUT
 timestamps
