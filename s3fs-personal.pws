@@ -1,4 +1,4 @@
-personal_ws-1.1 en 922
+personal_ws-1.1 en 926
 abb
 abcd
 ABCDEF
@@ -121,6 +121,7 @@ buf
 bufsize
 Bugfix
 Bugfixes
+bugprone
 bumpup
 bup
 bupdir
@@ -633,6 +634,7 @@ npos
 nss
 NSS
 nullPointerRedundantCheck
+nullptr
 num
 oauth
 ObjectName
@@ -649,6 +651,7 @@ OpenSSL
 OPENSSL
 OpenStack
 openSUSE
+optarg
 orgmeta
 OSF
 osx
@@ -857,6 +860,7 @@ uncomp
 UNEXISTED
 unexisting
 uninstallation
+unixtime
 UNLOCKFUNC
 unmounting
 unsupport
